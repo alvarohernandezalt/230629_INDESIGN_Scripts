@@ -1,5 +1,4 @@
-﻿// DESCRIPTION: Export book files individually
-// Peter Kahrel
+
 
 export_to_pdf();
 
