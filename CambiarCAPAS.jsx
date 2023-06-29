@@ -1,4 +1,4 @@
-﻿//DESCRIPCIÓN: Apagar/Encender capas en un Libro
+﻿// DESCRIPCIÓN: Apagar/Encender capas en un Libro
 // KALAM Scripts Alvaro Hernández
 
 if (app.books.length != 1)
